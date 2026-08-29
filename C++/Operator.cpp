@@ -79,6 +79,29 @@ int perbandingan(){
     return 0;
 }
 
+int isBool(){
+
+    bool keputusanA = true;
+    bool keputusanB = false;
+    string kataKata = "Hasil Keputusan..... ===>  ";
+
+    // tanpa menggunakan boolalpha
+    cout << kataKata << keputusanA << endl;
+    cout << kataKata << keputusanB << endl;
+
+    // menggunakan BOOLALPHA
+    cout << boolalpha;
+    cout << kataKata << keputusanA << endl;
+    cout << kataKata << keputusanB << endl;
+
+    // menggunakan default kembali
+    cout << noboolalpha;
+    cout << kataKata << keputusanA << endl;
+    cout << kataKata << keputusanB << endl;
+
+
+    return 0;
+}
 
 
 
@@ -86,5 +109,6 @@ int main() {
 
     operatorcpp();
     perbandingan();
+    isBool();
     return 0;
 }
