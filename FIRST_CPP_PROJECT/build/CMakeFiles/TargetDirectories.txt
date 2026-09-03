@@ -1,0 +1,4 @@
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/FIRST_CPP_PROJECT/build/CMakeFiles/CoreEngine.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/FIRST_CPP_PROJECT/build/CMakeFiles/AppExec.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/FIRST_CPP_PROJECT/build/CMakeFiles/edit_cache.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/FIRST_CPP_PROJECT/build/CMakeFiles/rebuild_cache.dir
