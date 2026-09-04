@@ -1,0 +1,4 @@
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/SECOND_CPP_PROJECT/build/CMakeFiles/StudentCore.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/SECOND_CPP_PROJECT/build/CMakeFiles/StudentApp.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/SECOND_CPP_PROJECT/build/CMakeFiles/edit_cache.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/SECOND_CPP_PROJECT/build/CMakeFiles/rebuild_cache.dir
