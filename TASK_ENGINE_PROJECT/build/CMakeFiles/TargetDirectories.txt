@@ -1,0 +1,4 @@
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/TASK_ENGINE_PROJECT/build/CMakeFiles/TaskCore.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/TASK_ENGINE_PROJECT/build/CMakeFiles/TaskApp.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/TASK_ENGINE_PROJECT/build/CMakeFiles/edit_cache.dir
+D:/LUFYANTO/2. WORKSHOP/#. GITHUB/Study/C++/TASK_ENGINE_PROJECT/build/CMakeFiles/rebuild_cache.dir
